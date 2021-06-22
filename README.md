@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danielnatham
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Java / JavaScript / C#
+- 🌱 I’m currently learning Java and C#
 - 📫 How to reach linkedin/daniel-natham/
 
 <!---
