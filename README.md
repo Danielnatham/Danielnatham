@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Danielnatham
-- 👀 I’m interested in Java / JavaScript / C#
-- 🌱 I’m currently learning Java and C#
+- :mortar_board: currently studying computer science at Federal University of Sergipe 
+- 👀 I’m interested in games, films and geek culture
+- 🌱 I’m currently learning Hibernate, Spring Boot and Java
 - 📫 How to reach linkedin.com/in/daniel-nathan-reis/
 
 <!---
