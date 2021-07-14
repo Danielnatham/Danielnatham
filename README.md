@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Danielnatham
 - :mortar_board: I’m currently studying computer science at Federal University of Sergipe 
 - 👀 I’m interested in games, films and geek culture
-- 🌱 I’m currently learning Hibernate, Spring Boot and Java
+- 🌱 I’m currently learning  Spring Boot and Angular
 - 📫 How to reach linkedin.com/in/daniel-nathan-reis/
 
 <!---
