@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java**, **Spring**, **Hibernate**, **PostgreSQL**
 
-- 📫 How to reach me **Danielnathan@gmail.com**
+- 📫 How to reach me **Danielnatham@gmail.com**
 
 - ⚡ Fun fact **I love chemistry and studied industrial chemistry for 3 years**
 
