@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Daniel Nathan</h1>
 <h3 align="center">A computer science student at Federal University of Sergipe</h3>
 
-- 🌱 I’m currently learning **Java**, **Spring**, **Hibernate**, **PostgreSQL**
+- 🌱 I’m currently learning **Laravel**, **Lumen**, **TDD**, **MySQL**
 
 - 📫 How to reach me **Danielnatham@gmail.com**
 
@@ -21,8 +20,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+<a href="https://www.php.net/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="c" width="40" height="40"/> 
 </a> 
 
 <a href="https://www.java.com" target="_blank"> 
@@ -50,6 +49,10 @@
 </a> 
  
 
+<a href="https://laravel.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a>
+    
 <a href="https://nodejs.org" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a>
@@ -61,8 +64,6 @@
 <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a> 
-
-
   
 <a href="https://www.linux.org/" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
