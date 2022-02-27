@@ -7,7 +7,7 @@ ___
 
 - 📚 Atualmente estou aprendendo sobre:
     - **Laravel**
-    - **Nextjs**
+    - **Next.js**
     - **TDD**
     - **SOLID**
 
