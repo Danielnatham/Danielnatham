@@ -4,7 +4,8 @@ Meu nome é Daniel Nathan
 
 Sou graduando de ciência da computação na Universidade Federal de Sergipe
 ___
-
+- 📫 Entre em contato em: Danielnatham@gmail.com
+- ⚡ Curiosidade: eu amo química e estudei química industrial por 3 anos
 - 📚 Atualmente estou aprendendo sobre:
     - **Laravel**
     - **Next.js**
@@ -18,13 +19,12 @@ ___
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-nathan-/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielnatham@gmail.com)
 
-Email: Danielnatham@gmail.com
-
 ### 🛠️ Tecnologias e Ferramentas que utilizo:
 
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#)
-[![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
+[![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
+
 
 [![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 [![Spring](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](#)
