@@ -1,17 +1,16 @@
-# Ola 👋,
+# Ola 👋, meu nome é Daniel 👨🏾‍💻
 
-Meu nome é Daniel Nathan
+### 📋 Sobre mim: 
 
 Sou graduando de ciência da computação na Universidade Federal de Sergipe
-___
-- 📫 Entre em contato em: Danielnatham@gmail.com
-- ⚡ Curiosidade: eu amo química e estudei química industrial por 3 anos
+
+- ⚡ Curiosidade: Eu amo química e calculo e estudei química industrial por 3 anos
 - 📚 Atualmente estou aprendendo sobre:
     - **Laravel**
     - **Next.js**
     - **TDD**
     - **SOLID**
-
+- 📫 Entre em contato em: Danielnatham@gmail.com
 ___
 
 ### ❤️ Vamos nos conectar:
