@@ -6,10 +6,11 @@ Sou graduando de ciência da computação na Universidade Federal de Sergipe
 
 - ⚡ Curiosidade: Eu amo química e calculo e estudei química industrial por 3 anos
 - 📚 Atualmente estou aprendendo sobre:
+    - **PHP** 
     - **Laravel**
-    - **Next.js**
-    - **TDD**
+    - **Test-Driven Development (TDD)**
     - **SOLID**
+    - **Desing Patterns**
 - 📫 Entre em contato em: Danielnatham@gmail.com
 ___
 
