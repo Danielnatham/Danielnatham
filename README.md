@@ -1,16 +1,16 @@
-# Ola 👋, meu nome é Daniel 👨🏾‍💻
+# Ola 👋, meu nome é Daniel Nathan 👨🏾‍💻
 
 ### 📋 Sobre mim: 
 
-Sou graduando de ciência da computação na Universidade Federal de Sergipe
+Sou graduando de ciência da computação na Universidade Federal de Sergipe.
+Atualmente sou Desenvolvedor Full-Stack na ZDoc 
 
-- ⚡ Curiosidade: Eu amo química e calculo e estudei química industrial por 3 anos
+- ⚡ Curiosidade: Eu amo química, calculo e estudei química industrial por 3 anos
 - 📚 Atualmente estou aprendendo sobre:
-    - **PHP** 
-    - **Laravel**
     - **Test-Driven Development (TDD)**
     - **SOLID**
     - **Desing Patterns**
+    - **Vue.js**
 - 📫 Entre em contato em: Danielnatham@gmail.com
 ___
 
