@@ -10,7 +10,7 @@ Atualmente sou Desenvolvedor Full-Stack na ZDoc
     - **Test-Driven Development (TDD)**
     - **SOLID**
     - **Desing Patterns**
-    - **Vue.js**
+    - **Angular**
 - 📫 Entre em contato em: Danielnatham@gmail.com
 ___
 
