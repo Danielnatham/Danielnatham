@@ -3,14 +3,14 @@
 ### 📋 Sobre mim: 
 
 Sou graduando de ciência da computação na Universidade Federal de Sergipe.
-Atualmente sou Desenvolvedor Full-Stack na ZDoc 
+Atualmente sou Desenvolvedor Back-end na SergipeTec 
 
 - ⚡ Curiosidade: Eu amo química, calculo e estudei química industrial por 3 anos
 - 📚 Atualmente estou aprendendo sobre:
     - **Test-Driven Development (TDD)**
     - **SOLID**
     - **Desing Patterns**
-    - **Angular**
+    - **Spring**
 - 📫 Entre em contato em: Danielnatham@gmail.com
 ___
 
