@@ -3,14 +3,15 @@
 ### 📋 Sobre mim: 
 
 Sou graduando de ciência da computação na Universidade Federal de Sergipe.
-Atualmente sou Desenvolvedor Back-end na SergipeTec 
+Atualmente sou Desenvolvedor Full-stack na CD2 Retail Tech
 
 - ⚡ Curiosidade: Eu amo química, calculo e estudei química industrial por 3 anos
 - 📚 Atualmente estou aprendendo sobre:
     - **Test-Driven Development (TDD)**
     - **SOLID**
     - **Desing Patterns**
-    - **Spring**
+    - **Spring Boot**
+    - **Angular**
 - 📫 Entre em contato em: Danielnatham@gmail.com
 ___
 
